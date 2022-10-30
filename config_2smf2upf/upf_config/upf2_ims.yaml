@@ -172,7 +172,7 @@ upf:
     subnet:
       - addr: 10.46.0.1/16
         dnn: ims
-        dev: ogstun
+        dev: ogstun2
 #
 # smf:
 #
