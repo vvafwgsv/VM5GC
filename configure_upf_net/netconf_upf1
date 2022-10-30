@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sed -i "/#net.ipv4.ip_forward=1/s/^#//g"
+sed -i "/#net.ipv4.ip_forward=1/s/^#//g" /etc/sysctl.conf
 
 ip tuntap add name ogstun mode tun
 ip addr add 10.45.0.1/16 dev ogstun
