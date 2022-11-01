@@ -2,5 +2,5 @@
 
 cd /root/open5gs/
 
-./install/bin/open5gs-nssfd -d -c ../VM5GC/config_2smf2upf/nssf.yaml -l "/root/VM5GC/nssf_`date '+%Y-%m-%d'`.log"
+./install/bin/open5gs-nssfd -d -c ../VM5GC/config_2smf2upf/nssf_2slices.yaml -l "/root/VM5GC/nssf_`date '+%Y-%m-%d'`.log"
 

@@ -2,5 +2,5 @@
 
 cd /root/open5gs/
 
-./install/bin/open5gs-nrfd -d -c ../VM5GC/config_2smf2upf/nrf.yaml -l "/root/VM5GC/nrf_`date '+%Y-%m-%d'`.log"
+./install/bin/open5gs-upfd -d -c ../VM5GC/config_2smf2upf/upf2_ims.yaml -l "/root/VM5GC/upf2_`date '+%Y-%m-%d'`.log"
 
