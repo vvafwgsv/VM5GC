@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd /root/open5gs/
+
+./install/bin/open5gs-smfd -d -c ../VM5GC/config_2smf2upf/smf2_sd2ims.yaml -l "/root/VM5GC/smf2_`date '+%Y-%m-%d'`.log"
+

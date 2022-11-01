@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd /root/open5gs/
+
+./install/bin/open5gs-amfd -d -c ../VM5GC/config_2smf2upf/amf_2slices.yaml -l "/root/VM5GC/amf_`date '+%Y-%m-%d'`.log"
+

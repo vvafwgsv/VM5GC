@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd /root/open5gs/
+
+./install/bin/open5gs-udmfd -d -c ../VM5GC/config_2smf2upf/udm.yaml -l "/root/VM5GC/udm_`date '+%Y-%m-%d'`.log"
+
