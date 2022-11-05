@@ -2,5 +2,5 @@
 
 cd /root/open5gs/
 
-./install/bin/open5gs-smfd -d -c ../VM5GC/config_2smf2upf/smf1_sd1internet.yaml -l "/root/VM5GC/smf1_`date '+%Y-%m-%d'`.log"
+./install/bin/open5gs-smfd -d -c ../VM5GC/2slice_topo/smf1_sd1internet.yaml -l "/root/VM5GC/smf1_`date '+%Y-%m-%d'`.log"
 

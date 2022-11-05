@@ -2,5 +2,5 @@
 
 cd /root/open5gs/
 
-./install/bin/open5gs-upfd -d -c ../VM5GC/config_2smf2upf/upf_config/upf2_ims.yaml -l "/root/VM5GC/upf2_`date '+%Y-%m-%d'`.log"
+./install/bin/open5gs-upfd -d -c ../VM5GC/2slice_topo/upf_config/upf2_ims.yaml -l "/root/VM5GC/upf2_`date '+%Y-%m-%d'`.log"
 
