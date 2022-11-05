@@ -440,7 +440,7 @@ smf:
     ctf:
       enabled: auto
 #    freeDiameter: /root/open5gs/install/etc/freeDiameter/smf2.conf
-    freeDiameter: /root/VM5GC/config_2smf2upf/smf2.conf
+    freeDiameter: /root/VM5GC/2slice_topo/smf2.conf
     info:
       - s_nssai:
          - sst: 2
