@@ -2,5 +2,5 @@
 
 cd /root/open5gs/
 
-./install/bin/open5gs-ausfd -d -c ../VM5GC/config_2smf2upf/ausf.yaml -l "/root/VM5GC/ausf_`date '+%Y-%m-%d'`.log"
+./install/bin/open5gs-ausfd -d -c ../VM5GC/2slice_topo/ausf.yaml -l "/root/VM5GC/ausf_`date '+%Y-%m-%d'`.log"
 
