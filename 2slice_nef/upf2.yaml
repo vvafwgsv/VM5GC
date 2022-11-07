@@ -19,7 +19,7 @@
 #    domain: core,pfcp,gtp,upf,event,tlv,mem,sock
 #
 logger:
-    file: /Users/mzieba/Dropbox/praca_inzynierska/NEF-implementacja/open5gs/install/var/log/open5gs/upf.log
+    file: /root/open5gs/install/var/log/open5gs/upf.log
 
 #
 # upf:
@@ -166,13 +166,13 @@ logger:
 #
 upf:
     pfcp:
-      - addr: 127.0.0.7
+      - addr: 192.168.58.122
     gtpu:
-      - addr: 127.0.0.7
+      - addr: 192.168.58.122
     subnet:
-      - addr: 10.45.0.1/16
-      - addr: 2001:db8:cafe::1/48
-
+      - addr: 10.46.0.1/16
+        dnn:  ims
+        dev: ogstun2
 #
 # smf:
 #
