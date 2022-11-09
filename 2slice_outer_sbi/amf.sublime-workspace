@@ -1,0 +1,725 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wo",
+				"words_n_stats"
+			],
+			[
+				"word",
+				"words_n_stats"
+			],
+			[
+				"wor",
+				"words_n_stats"
+			],
+			[
+				"ta",
+				"target_chars_set"
+			],
+			[
+				"S",
+				"SentenceExaminer"
+			],
+			[
+				"update",
+				"update_hit_count"
+			],
+			[
+				"h",
+				"hit_count_per_letter"
+			],
+			[
+				"wod",
+				"word_mapping"
+			],
+			[
+				"hit",
+				"hit_letters"
+			],
+			[
+				"re",
+				"reduce_to_alpha"
+			],
+			[
+				"column",
+				"columnspan"
+			],
+			[
+				"dele",
+				"delete_error"
+			],
+			[
+				"articles",
+				"articles_list"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"add",
+				"add_status"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"pass",
+				"password_buffer"
+			],
+			[
+				"acce",
+				"acceptClient"
+			],
+			[
+				"login",
+				"login_btn"
+			],
+			[
+				"register",
+				"register_status"
+			],
+			[
+				"set",
+				"set_email"
+			],
+			[
+				"registe",
+				"register_status"
+			],
+			[
+				"oauth_",
+				"oauth_scoped"
+			],
+			[
+				"ind",
+				"indent"
+			],
+			[
+				"fli",
+				"flightNumber"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"trac",
+				"track_in_album"
+			],
+			[
+				"tra",
+				"track_name"
+			],
+			[
+				"top",
+				"top_songs"
+			],
+			[
+				"pla",
+				"playlist"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"play",
+				"playlist"
+			],
+			[
+				"spo",
+				"spotify_handle"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"json",
+				"json_response_cat"
+			],
+			[
+				"follo",
+				"followed_artist_info"
+			],
+			[
+				"followe",
+				"followed_artist_info"
+			],
+			[
+				"followed",
+				"followed_artists"
+			],
+			[
+				"follow",
+				"followed"
+			],
+			[
+				"client",
+				"client_redirect"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"iss",
+				"isset"
+			],
+			[
+				"to",
+				"toReplace"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"repla",
+				"replacemenr"
+			],
+			[
+				"rem",
+				"replacemenr"
+			],
+			[
+				"str",
+				"str_temp"
+			],
+			[
+				"e",
+				"execute"
+			],
+			[
+				"rea",
+				"read_from"
+			],
+			[
+				"args",
+				"argsv"
+			],
+			[
+				"sign",
+				"signal2"
+			],
+			[
+				"child",
+				"child1pid"
+			],
+			[
+				"signal",
+				"signal1"
+			],
+			[
+				"sing",
+				"signal1"
+			],
+			[
+				"chidl",
+				"child1pid"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"items",
+				"items_tracker"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"temp",
+				"temp_matrix"
+			],
+			[
+				"_cu",
+				"_current_path"
+			],
+			[
+				"min",
+				"min_path"
+			],
+			[
+				"graph",
+				"graph_path_values"
+			],
+			[
+				"curren",
+				"_current_path"
+			],
+			[
+				"gr",
+				"graph_path_values"
+			],
+			[
+				"_c",
+				"_current_path"
+			],
+			[
+				"grap",
+				"graph_path_values"
+			],
+			[
+				"inde",
+				"index_mid"
+			],
+			[
+				"gra",
+				"graph"
+			],
+			[
+				"hash",
+				"hash_tab"
+			],
+			[
+				"has",
+				"hashed"
+			],
+			[
+				"t_hah",
+				"t_hash"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"struc",
+				"structure25"
+			],
+			[
+				"print",
+				"print_tree"
+			],
+			[
+				"l",
+				"l_successor"
+			],
+			[
+				"find",
+				"find_maximum"
+			],
+			[
+				"get",
+				"get_value"
+			],
+			[
+				"hano",
+				"hanoi_iter"
+			],
+			[
+				"iter",
+				"iter_hanoi_count"
+			],
+			[
+				"rec",
+				"rec_hanoi_count"
+			],
+			[
+				"dest",
+				"destination"
+			],
+			[
+				"mer",
+				"mersort"
+			],
+			[
+				"s",
+				"sort_ind"
+			],
+			[
+				"r",
+				"r_ind"
+			],
+			[
+				"merge",
+				"merge_s"
+			],
+			[
+				"inte",
+				"integ_sum"
+			],
+			[
+				"ar",
+				"area"
+			],
+			[
+				"per",
+				"perimeter"
+			],
+			[
+				"each",
+				"each_path"
+			],
+			[
+				"perf",
+				"perf_counter"
+			],
+			[
+				"actual",
+				"alternateactualword"
+			],
+			[
+				"forma",
+				"formattedinput"
+			],
+			[
+				"is",
+				"isonlyone"
+			],
+			[
+				"actua",
+				"actualword"
+			],
+			[
+				"tim1",
+				"time10"
+			],
+			[
+				"time",
+				"time_1"
+			],
+			[
+				"fo",
+				"format"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Ter",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Prefe",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"Package Controll: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"neon",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 151.0,
+		"history":
+		[
+			"ssh",
+			"ls",
+			"pwd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mzieba/Dropbox/praca_inzynierska/vm5GC config:",
+		"/usr/local/var/log/mongodb/mongo.log",
+		"/Users/mzieba/Documents/szkola/3rok/UM wykład 1.:",
+		"/Users/mzieba/Documents/szkola/3rok/5semestr/db/salvation.sql",
+		"/Users/mzieba/Library/Application Support/Sublime Text 3/Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+		"/Users/mzieba/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/mzieba/Documents/szkola/code/Scrabble_with_GUI/.gitignore",
+		"/Users/mzieba/temp",
+		"/Users/mzieba/Documents/szkola/3rok/5semestr/db/kol",
+		"/Users/mzieba/Documents/szkola/3rok/5semestr/tc/lab6/transmisja pakietowa",
+		"/Users/mzieba/Documents/szkola/code/Lab6/src/com/company/AdminUnitList.java",
+		"/Users/mzieba/.bash_profile",
+		"/Users/mzieba/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mzieba/Documents/szkola/code/test.py",
+		"/Users/mzieba/Documents/szkola/code/new.cpp",
+		"/Users/mzieba/Documents/szkola/3rok/5semestr/bstel/4way vulnerability:",
+		"/Users/mzieba/zad2.py",
+		"/Users/mzieba/3.py",
+		"/Users/mzieba/Downloads/zadanie_2-1.m",
+		"/Users/mzieba/Downloads/TC_demod_am.m",
+		"/Users/mzieba/Downloads/zadanie_2.m",
+		"/Users/mzieba/Documents/szkola/3rok/5semestr/tc/lab1/TC_demod_fm.m",
+		"/Users/mzieba/Documents/szkola/3rok/5semestr/bstel/1. identyfikuje AP, z którym skojarzona jest dana",
+		"/OSPF:",
+		"/Users/mzieba/Documents/must/req",
+		"/Users/mzieba/colors",
+		"/Users/mzieba/Documents/szkola/3rok/5semestr/wsdd/n1",
+		"/var/folders/qh/bt0f1q251xnd54ngn946d4jh0000gn/T/TemporaryItems/NSIRD_screencaptureui_pr5Xlm/Screenshot 2021-10-18 at 22.14.45.png",
+		"/Users/mzieba/Documents/szkola/3rok/5semestr/sb/notatki/w2",
+		"/Users/mzieba/Desktop/user",
+		"/Users/mzieba/Desktop/+$font-stack: \"Comic Sans MS\", cursive, sans-serif",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/www/projektwww/app/auth/views.py",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/www/projektwww/app/auth/__init__.py",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/www/projektwww/app/__init__.py",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/www/projektwww/app/models.py",
+		"/var/folders/qh/bt0f1q251xnd54ngn946d4jh0000gn/T/TemporaryItems/(A Document Being Saved By screencaptureui 28)/Screenshot 2021-06-10 at 13.16.53.png",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/jpwp/py.py",
+		"/Users/mzieba/Downloads/Product.java",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/www/projektwww/static/css/main.css",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/www/projektwww/.gitignore",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/bst/lab11/lab11bst",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/bst/lab11/openvpn.loh",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/jpwp/tr_zad2.kt.java",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/jpwp/z1.py",
+		"/usr/local/etc/snort/exercises.rules",
+		"/usr/local/etc/snort/exercises_exemplary.rules",
+		"/usr/local/etc/snort/snort.conf",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/www/articles_list.php",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/www/index.php",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/www/articles_add.php",
+		"/Users/mzieba/Downloads/articles_list.php",
+		"/var/folders/qh/bt0f1q251xnd54ngn946d4jh0000gn/T/TemporaryItems/(A Document Being Saved By screencaptureui 38)/Screenshot 2021-05-20 at 11.52.13.png",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/jpwp/JPWP2021-DK-MK-master/JPWP - Rozwiązania/Zadanie2/BitMapLoader.java",
+		"/Users/mzieba/Downloads/message.txt",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/www/phplab7register.php",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/bst/temp",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/bst/system.c",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/bst/system",
+		"/var/folders/qh/bt0f1q251xnd54ngn946d4jh0000gn/T/TemporaryItems/(A Document Being Saved By screencaptureui 17)/Screenshot 2021-05-13 at 12.31.44.png",
+		"/Users/mzieba/Desktop/tempss",
+		"/Users/mzieba/Desktop/sstemp",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/jpwp/Zadanie2/Message2.java",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/jpwp/Zadanie2/Client2.java",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/jpwp/Zadanie2/Server2.java",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/jpwp/Server1.java",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/jpwp/Client1.java",
+		"/usr/local/Cellar/openvpn/2.5.1/tunel.ovpn",
+		"/usr/local/Cellar/openvpn/2.5.1/openvpn-status.log",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/www/php2lab7.php",
+		"/Users/mzieba/Library/Logs/JetBrains/IntelliJIdea2020.2/idea.log.9",
+		"/Users/mzieba/Library/Logs/Homebrew/python@3.9/post_install.02.pip3",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/jpwp/zadania_projekt/zadanie1_oauth2_rozwiązanie.py",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/jpwp/zadania_projekt/zad1_2A_2B.py",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/jpwp/zadania_projekt/zad12.py",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/bst/lab6hasla/lab6mzieba.txt",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/jpwp/zadania_projekt/zad1spotipy.py",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/www/untitled.py",
+		"/Users/mzieba/Downloads/zad1ticketair.pl",
+		"/Users/mzieba/Downloads/snakezad2_1.java",
+		"/Users/mzieba/Documents/szkola/2rok/3semestr/po/project/refinedApp 2/src/sample/methods/snakezad1.java",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/www/php8add_articles.php",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/jpwp/app3/venv/lib/python3.9/site-packages/urllib3/contrib/_appengine_environ.py",
+		"/Users/mzieba/Desktop/php.php",
+		"/Users/mzieba/Desktop/siema temp app3",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/bst/lab4",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/jpwp/app3/ui_source/resource.qrc",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/bst/mzieba_bst4",
+		"/Users/mzieba/Desktop/bst_lab4",
+		"/Users/mzieba/Desktop/mateusz (9F7F7B30) – Secret.asc",
+		"/Users/mzieba/Downloads/www-agh-edu-pl.pem",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/jpwp/asystent/main.py",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/www/lab5json.html",
+		"/Users/mzieba/Documents/szkola/1rok/ALGORYTMY2020/lab5struct/2.py",
+		"/Users/mzieba/Documents/szkola/1rok/ALGORYTMY2020/lab5struct/1.py",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/www/lab4js.html",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/www/asystent do spotify - plan",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/www/lab3.html",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/www/www.index.html",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/ss.py",
+		"/Users/mzieba/Desktop/ss lab: pPNAm5m6gp7",
+		"/Users/mzieba/Documents/szkola/2rok/4semestr/cps/0LAB/dupa.cpp",
+		"/Users/mzieba/siema.cpp",
+		"/Users/mzieba/siema",
+		"/Users/mzieba/Documents/szkola/code/so_prog/Zięba Mateusz 2TI 8 upipe_ex.c",
+		"/Users/mzieba/Documents/szkola/code/so_prog/Zięba Mateusz 2TI 7 ćw 7 /new1.c",
+		"/Users/mzieba/Documents/szkola/code/so_prog/Zięba Mateusz 2TI 7 ćw 7 /new2.c",
+		"/Users/mzieba/Documents/szkola/code/so_prog/Zięba Mateusz 2TI 7 ćw 7 /doublefork.c",
+		"/Users/mzieba/Documents/szkola/code/so_prog/lab8z3.c",
+		"/Users/mzieba/Documents/szkola/2rok/PE/laboratoria/lab.conf",
+		"/Users/mzieba/Documents/szkola/code/so_prog/lab11cw3/reader.c",
+		"/Users/mzieba/Documents/szkola/code/so_prog/v1/3.c",
+		"/Users/mzieba/Documents/szkola/code/so_prog/3.c",
+		"/Users/mzieba/Documents/szkola/code/so_prog/nowy1.c",
+		"/Users/mzieba/Documents/szkola/2rok/po/untitled.cpp",
+		"/Users/mzieba/Documents/szkola/2rok/po/bckup/LoggingSceneBackup.java",
+		"/Users/mzieba/Desktop/IP EGZAMIN P1",
+		"/Users/mzieba/Desktop/Zakres egzaminu: podstawy sieci IP, algorytmy dobo",
+		"/Users/mzieba/Downloads/Online Book Store Project in JAVA/Online Book Store/WEB-INF/classes/obs/Item.java",
+		"/Users/mzieba/Downloads/Online Book Store Project in JAVA/Online Book Store/WEB-INF/classes/obs/Cart.java",
+		"/Users/mzieba/Downloads/Online Book Store Project in JAVA/Online Book Store/deleteorder.jsp",
+		"/Users/mzieba/Documents/szkola/2rok/po/po2020/lab5/src/lab5/Car.java",
+		"/Users/mzieba/Documents/szkola/2rok/po/po2020/lab5/src/lab5/Engine.java",
+		"/Users/mzieba/Documents/szkola/2rok/po/po2020/lab5/src/lab5/GearBox.java",
+		"/Users/mzieba/Documents/szkola/2rok/po/po2020/lab5/src/lab5/Clutch.java",
+		"/Users/mzieba/Downloads/plc_test.cc",
+		"/Users/mzieba/Downloads/mt.py",
+		"/Users/mzieba/Documents/szkola/2rok/po/laboratorium2/src/com/company/Main.java",
+		"/Users/mzieba/Documents/szkola/2rok/po/laboratorium2/src/com/company/lotto.java"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/ShellScript/ShellScript.sublime-build",
+	"project": "amf.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/szkola/2rok/4semestr/jpwp/zadania_projekt/zad12.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

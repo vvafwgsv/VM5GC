@@ -1,0 +1,81 @@
+"""
+1.
+
+
+The new AMF creates an UE context for the UE after getting the Access and Mobility Subscription data from the UDM.
+The AMF retrieves the GPSI, Access and Mobility Subscription data, SMF Selection Subscription data and UE context
+in SMF data using Nudm SDM GET. This requires that UDM may retrieve this information from UDR by Nudr DM QUERY
+
+
+po rejestracji UE AMF requestuje poprzez UDM informacje
+dotyczace wyboru SMF dla wymagan slicowy:
+AMF ->  /nudm-sdm/v2/imsi-{imsi}/am-data
+    UDM -> UDR:/nudr-dr/v1/subscription-data/imsi-{imsi}/
+               /plmn == {66601}/provisioned-data/am-data
+          [200:GET]: {subscribedUeAmbr: {uplink, downlink},
+                nssai: {
+                    defaultSingleNssais: [{
+                    sst,
+                    sd
+                    }]
+                }
+          } -> AMF
+AMF -> /nudm-sdm/v2/imsi-{imsi}/smf-select-data
+    UDM -> UDR:/nudr-dr/v1/subscription-data/imsi-{imsi}/
+               /plmn == {66601}/provisioned-data/smf-selection-subscription-data/
+
+          [200:GET]: {subscribedSnssaiInfos:
+                 r"{\n\t\"sst\":\t<<sst>>,\n\t\"sd\":\t\"<<sd>>\"\n}": {
+                    dnnInfos: [{
+                    dnn,
+                    defaultDnnIndicator
+                    }]
+                }
+          } -> AMF
+AMF ->  /nudm-sdm/v2/imsi-{imsi}/ue-context-in-smf-data
+        UDM: zgodnie z 23.502 zwraca puste body {}
+AMF -> utworzenie callbacku na AM-data dla imsi
+
+AMF -> dla wlasciwego SMF: /nsmf-pdusession/v1/sm-contexts
+        [201:POST]: {
+            supi, pei, pduSessionId, dnn,
+            sNssai: {sst, sd},
+            servingNfId,
+            guami: {plmnId:{mcc, mnc}, amfId}
+            servingNetwork :{mcc, mnc}
+            ...
+            pcfId: When present, this IE shall contain the identifier of
+                   the PCF selected by the AMF for the UE (for Access
+                   and Mobility Policy Control); it shall be the V-PCF in
+                   LBO roaming and the H-PCF in HR roaming.
+        }
+SMF -> dla UDM: /nudm-sdm/v2/imsi-{imsi}/sm-data
+        [200:GET]: {
+            DANE
+        }
+SMF -> PCF: /npcf-smpolicycontrol/v1/sm-policies
+        [201:POST]: {
+            DANE
+            supi: imsi-{imsi},
+            ipv4Address,
+            subscDefQos: {
+                5qci, arp, priorityLevel
+            },
+            sliceInfo: {sst, sd}
+        } -> SMF: {sessRules: {authSessAmbr:{}, authDefQos:{}}}
+
+SMF -> AMF: /namf-comm/v1/ue-contexts/imsi-{imsi}/n1-n2-messages
+        [200:POST]: {
+            N2INFO..
+        }
+"""
+
+"""
+co mozna zczytac:
+-(liczba sesji pdu i zagregowany bitrate UL/DL w slicie)
+
+
+workflow:
+1. attach UE + PDU
+2.
+"""
