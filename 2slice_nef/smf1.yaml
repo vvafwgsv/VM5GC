@@ -463,7 +463,7 @@ smf:
     gtpc:
       - addr: 127.0.0.4
     gtpu:
-      - addr: 127.0.0.4
+      - addr: 192.168.58.1
     metrics:
         addr: 127.0.0.4
         port: 9090
@@ -631,7 +631,8 @@ scp:
 #
 upf:
     pfcp:
-      - addr: 127.0.0.7
+      - addr: 192.168.58.121
+        dnn:  internet
 
 #
 # parameter:
